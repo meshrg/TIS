@@ -1,0 +1,54 @@
+(dp1
+S'NOAA 4 [-]'
+p2
+S'sat tle/noaa/sat3'
+p3
+sS'NOAA 1 [-]'
+p4
+S'sat tle/noaa/sat0'
+p5
+sS'NOAA 6 [P]'
+p6
+S'sat tle/noaa/sat6'
+p7
+sS'NOAA 8 [-]'
+p8
+S'sat tle/noaa/sat8'
+p9
+sS'NOAA 19 [+]'
+p10
+S'sat tle/noaa/sat19'
+p11
+sS'NOAA 18 [B]'
+p12
+S'sat tle/noaa/sat18'
+p13
+sS'NOAA 3 [-]'
+p14
+S'sat tle/noaa/sat2'
+p15
+sS'NOAA 14 [-]'
+p16
+S'sat tle/noaa/sat14'
+p17
+sS'NOAA 11 [-]'
+p18
+S'sat tle/noaa/sat11'
+p19
+sS'ISS (ZARYA)'
+p20
+S'sat tle/amateur/sat8'
+p21
+sS'NOAA 2 [-]'
+p22
+S'sat tle/noaa/sat1'
+p23
+sS'NOAA 7 [-]'
+p24
+S'sat tle/noaa/sat7'
+p25
+sS'BEESAT-2'
+p26
+S'sat tle/cubesat/sat22'
+p27
+s.

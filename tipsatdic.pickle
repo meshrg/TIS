@@ -1,0 +1,174 @@
+(dp1
+V100 (or so) Brightest
+p2
+S'sat tle/visual'
+p3
+sVAmateur Radio
+p4
+S'sat tle/amateur'
+p5
+sVSearch & Rescue (SARSAT)
+p6
+S'sat tle/sarsat'
+p7
+sVEarth Resources
+p8
+S'sat tle/resource'
+p9
+sVNOAA
+p10
+S'sat tle/noaa'
+p11
+sVOther
+p12
+S'sat tle/other'
+p13
+sVNavy Navigation Satellite System (NNSS)
+p14
+S'sat tle/nnss'
+p15
+sVGorizont
+p16
+S'sat tle/gorizont'
+p17
+sVRadar Calibration
+p18
+S'sat tle/radar'
+p19
+sVTracking and Data Relay Satellite System (TDRSS)
+p20
+S'sat tle/tdrss'
+p21
+sVSES
+p22
+S'sat tle/ses'
+p23
+sVLast 30 Days' Launches
+p24
+S'sat tle/tle-new'
+p25
+sVRussian LEO Navigation
+p26
+S'sat tle/musson'
+p27
+sVMiscellaneous Military
+p28
+S'sat tle/military'
+p29
+sVGPS Operational
+p30
+S'sat tle/gps-ops'
+p31
+sVGeostationary
+p32
+S'sat tle/geo'
+p33
+sVGlobalstar
+p34
+S'sat tle/globalstar'
+p35
+sVARGOS Data Collection System
+p36
+S'sat tle/argos'
+p37
+sVGalileo
+p38
+S'sat tle/galileo'
+p39
+sVBeidou
+p40
+S'sat tle/beidou'
+p41
+sVSpace & Earth Science
+p42
+S'sat tle/science'
+p43
+sVRaduga
+p44
+S'sat tle/raduga'
+p45
+sVExperimental
+p46
+S'sat tle/x-comm'
+p47
+sVCubeSats
+p48
+S'sat tle/cubesat'
+p49
+sVIridium
+p50
+S'sat tle/iridium'
+p51
+sVIRIDIUM 33 Debris
+p52
+S'sat tle/iridium-33-debris'
+p53
+sVIntelsat
+p54
+S'sat tle/intelsat'
+p55
+sVSatellite-Based Augmentation System (WAAS/EGNOS/MSAS)
+p56
+S'sat tle/sbas'
+p57
+sVIridium NEXT
+p58
+S'sat tle/iridium-NEXT'
+p59
+sVFENGYUN 1C Debris
+p60
+S'sat tle/1999-025'
+p61
+sVOther Comm
+p62
+S'sat tle/other-comm'
+p63
+sVCOSMOS 2251 Debris
+p64
+S'sat tle/cosmos-2251-debris'
+p65
+sVSpace Stations
+p66
+S'sat tle/stations'
+p67
+sVOrbcomm
+p68
+S'sat tle/orbcomm'
+p69
+sVMolniya
+p70
+S'sat tle/molniya'
+p71
+sVGeodetic
+p72
+S'sat tle/geodetic'
+p73
+sVEngineering
+p74
+S'sat tle/engineering'
+p75
+sVWeather
+p76
+S'sat tle/weather'
+p77
+sVGOES
+p78
+S'sat tle/goes'
+p79
+sVGlonass Operational
+p80
+S'sat tle/glo-ops'
+p81
+sVEducation
+p82
+S'sat tle/education'
+p83
+sVBREEZE-M R/B Breakup (2012-044C)
+p84
+S'sat tle/2012-044'
+p85
+sVDisaster Monitoring
+p86
+S'sat tle/dmc'
+p87
+s.
