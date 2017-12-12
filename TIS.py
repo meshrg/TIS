@@ -1032,10 +1032,7 @@ class mine_w(QMainWindow):
 	
 	def tab_new(self):
 		ven_nom=(u"Tabla de los ángulos del satélite:"+self.red)
-		if self.Az_al_gra==True:
-			self.save_red=self.red
-			self.Az_al_gra=False
-			
+		
 		if self.sat_next_pass[self.red]<self.t1:
 			#if self.sat_t_s[self.red]["Duracion"]=="LV":
 				#self.sat_t_v=tiempo_ajuste(self.obse,self.Sat_s[self.red])
