@@ -37,7 +37,7 @@ $ sudo apt install python-mpltoolkits.basemap
 ```
 ### Librería requests
 ```
-$ sudo pips install requests
+$ sudo pip2 install requests
 ```
 
 ### Librería Hamlib:
@@ -81,5 +81,5 @@ $ sudo chmod 777 /dev/ttyACM0
 
 ### Conectar la antena por red:
 1. La antena debe tener habilitado el servidor de Hamlib
-2. En el archivo rot_w_call_red.py se la IP y el puerto.
+2. En el archivo rot_w_call_red.py se encuentra la IP y el puerto.
 3. En el menú de Archivo se selecciona Antena y luego Red.
